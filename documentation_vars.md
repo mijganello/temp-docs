@@ -18,74 +18,74 @@
 # Текст
 * **`heading-1--font`**
 *
-* **`heading1--margin-vertical`**
+* **`heading-1--margin-vertical`**
 *
-* **`heading1--margin-top`**
+* **`heading-1--margin-top`**
 *
-* **`heading1--margin-bottom`**
+* **`heading-1--margin-bottom`**
 *
-* **`heading1--margin-left`**
+* **`heading-1--margin-left`**
 *
-* **`heading1--margin-right`**
+* **`heading-1--margin-right`**
 *
 * **`heading-2--font`**
 *
-* **`heading2--margin-vertical`**
+* **`heading-2--margin-vertical`**
 *
-* **`heading2--margin-top`**
+* **`heading-2--margin-top`**
 *
-* **`heading2--margin-bottom`**
+* **`heading-2--margin-bottom`**
 *
-* **`heading2--margin-left`**
+* **`heading-2--margin-left`**
 *
-* **`heading2--margin-right`**
+* **`heading-2--margin-right`**
 *
 * **`heading-3--font`**
 *
-* **`heading3--margin-vertical`**
+* **`heading-3--margin-vertical`**
 *
-* **`heading3--margin-top`**
+* **`heading-3--margin-top`**
 *
-* **`heading3--margin-bottom`**
+* **`heading-3--margin-bottom`**
 *
-* **`heading3--margin-left`**
+* **`heading-3--margin-left`**
 *
-* **`heading3--margin-right`**
+* **`heading-3--margin-right`**
 *
 * **`heading-4--font`**
 *
-* **`heading4--margin-vertical`**
+* **`heading-4--margin-vertical`**
 *
-* **`heading4--margin-top`**
+* **`heading-4--margin-top`**
 *
-* **`heading4--margin-bottom`**
+* **`heading-4--margin-bottom`**
 *
-* **`heading4--margin-left`**
+* **`heading-4--margin-left`**
 *
-* **`heading4--margin-right`**
+* **`heading-4--margin-right`**
 *
-* **`heading5--margin-vertical`**
-* **`heading5--margin-vertical`**
+* **`heading-5--margin-vertical`**
+* **`heading-5--margin-vertical`**
 *
-* **`heading5--margin-top`**
+* **`heading-5--margin-top`**
 *
-* **`heading5--margin-bottom`**
+* **`heading-5--margin-bottom`**
 *
-* **`heading5--margin-left`**
+* **`heading-5--margin-left`**
 *
-* **`heading5--margin-right`**
+* **`heading-5--margin-right`**
 *
-* **`heading6--margin-vertical`**
+* **`heading-6--margin-vertical`**
 *
-* **`heading6--margin-vertical`**
+* **`heading-6--margin-vertical`**
 *
-* **`heading6--margin-top`**
+* **`heading-6--margin-top`**
 *
-* **`heading6--margin-bottom`**
+* **`heading-6--margin-bottom`**
 *
-* **`heading6--margin-left`**
+* **`heading-6--margin-left`**
 *
-* **`heading6--margin-right`**
+* **`heading-6--margin-right`**
 
 * **`paragraph--margin-vertical`**
 ***
@@ -156,8 +156,8 @@
 * **`block-heading--font`**
 
 ## Блоки-секции
-* **`block-section--color-odd`**
-* **`block-section--color-even`**
+* **`block-section--bg-color-odd`**
+* **`block-section--bg-color-even`**
 * **`block-section--padding-vertical`**
 ***
 # Хлебные крошки
